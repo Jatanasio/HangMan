@@ -6,9 +6,9 @@ I created this program to help teach myself thw syntax of C++. It reads a words.
 
 # Development Environment
 
-VScode
-C++ extension
-MinGW Gnu Compiler Collection 
+- VScode
+- C++ extension
+- MinGW Gnu Compiler Collection 
 
 # Useful Websites
 
