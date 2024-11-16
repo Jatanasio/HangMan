@@ -1,0 +1,3 @@
+Word: batman - Player: jacob - Guesses Left: 0
+
+Word: gamer - Player: bill - Guesses Left: 4

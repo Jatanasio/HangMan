@@ -1,0 +1,6 @@
+pokemon
+batman
+pacman
+studio
+hangman
+gamer
